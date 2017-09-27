@@ -8,8 +8,9 @@
 pod 'KSXYSwitchView'
 
 
-            
-    [KSXYSwitchView showInView:self.view images:@[@"person_info.png", @"make_call.png", @"make_audio_call.png", @"make_video_call.png"] atPoint:point buttonClicked:^(NSInteger index) {
+    //@"person_info.png", @"make_call.png", @"make_audio_call.png", @"make_video_call.png"      
+    //本地路径  图片名称
+    [KSXYSwitchView showInView:self.view images:@[@"person_info.png", @"make_call.png", @"make_audio_call.png", @"make_video_call.png"] atPoint:point buttonClicked:^(NSInteger index) {
             if(index == 0) {
                 NSLog(@"Click person button index = %ld", (long)index);
             } 

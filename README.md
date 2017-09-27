@@ -1,7 +1,8 @@
 # KSXYSwitchView
 一个酷炫的弹出式，快捷选择菜单
 
-使用简单，一个函数全部搞定，使用pods管理
+使用简单，一个函数全部搞定。
+使用pods管理
 pod 'KSXYSwitchView'
 
 

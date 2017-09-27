@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "KSXYSwitchView"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "一个酷炫的弹出式，快捷选择菜单"
 
   # This description is used to generate tags and improve search results.
